@@ -1,6 +1,6 @@
-#-----------------------------------------------------------------------------#
-#                            Einstein's Puzzle                                #
-#-----------------------------------------------------------------------------#
+#-------------------------------------------------------#
+#                            Einstein's Puzzle          #
+#-------------------------------------------------------#
 
 PROBLEM: Solve the Einstein's puzzle as described below answering who lives in which color house, keeps which pet, smokes which cigarette and has what favorite drink.
 
@@ -28,4 +28,4 @@ Let us assume that there are five houses of different colors next to each other 
 SOURCE: http://www.stanford.edu/~laurik/fsmbook/examples/Einstein'sPuzzle.html
 
 IMPLEMENTATION: python main.py
-#-----------------------------------------------------------------------------#
+#-------------------------------------------------------#
